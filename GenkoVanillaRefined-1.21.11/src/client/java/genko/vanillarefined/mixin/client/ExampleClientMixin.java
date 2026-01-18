@@ -1,4 +1,4 @@
-package vanillarefined.mixin.client;
+package genko.vanillarefined.mixin.client;
 
 import net.minecraft.client.Minecraft;
 import org.spongepowered.asm.mixin.Mixin;

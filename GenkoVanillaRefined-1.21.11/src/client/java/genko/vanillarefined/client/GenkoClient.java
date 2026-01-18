@@ -1,4 +1,4 @@
-package vanillarefined;
+package genko.vanillarefined.client;
 
 import net.fabricmc.api.ClientModInitializer;
 

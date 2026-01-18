@@ -1,4 +1,4 @@
-package vanillarefined;
+package genko.vanillarefined;
 
 import net.fabricmc.api.ModInitializer;
 

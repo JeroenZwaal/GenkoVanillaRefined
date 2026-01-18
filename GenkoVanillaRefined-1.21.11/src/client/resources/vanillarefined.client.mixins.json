@@ -1,9 +1,9 @@
 {
 	"required": true,
-	"package": "vanillarefined.mixin.client",
+	"package": "genko.vanillarefined.mixin.client",
 	"compatibilityLevel": "JAVA_21",
 	"client": [
-		"ExampleClientMixin"
+      "ExampleClientMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

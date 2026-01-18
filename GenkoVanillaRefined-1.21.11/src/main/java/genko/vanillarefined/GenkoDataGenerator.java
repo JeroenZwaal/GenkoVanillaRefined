@@ -1,4 +1,4 @@
-package vanillarefined;
+package genko.vanillarefined;
 
 import net.fabricmc.fabric.api.datagen.v1.DataGeneratorEntrypoint;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataGenerator;
